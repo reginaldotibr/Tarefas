@@ -1,0 +1,19 @@
+# Dependências
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Ambiente
+.env
+.env.local
+
+# Builds e arquivos de sistema
+dist/
+build/
+.DS_Store
+Thumbs.db
